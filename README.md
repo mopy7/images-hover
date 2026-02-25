@@ -6,6 +6,14 @@ This project demonstrates DOM manipulation, event handling, state management, an
 
 ---
 
+## 🎥 Preview
+
+![Project Preview](./public/images-hover.gif)
+
+> 🔹 This screen recording shows the image changing dynamically on mouse hover and mouse out events.
+
+---
+
 ## 🚀 Features
 
 - Image changes on `mouseover`
