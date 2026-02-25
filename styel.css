@@ -1,0 +1,11 @@
+#container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding-top: 100px;
+}
+
+#image {
+  box-shadow: 0px 10px 30px rgba(0, 0, 0, 1);
+  border-radius: 10px;
+}
